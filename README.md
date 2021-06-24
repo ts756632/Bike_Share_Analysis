@@ -10,6 +10,6 @@ The director of marketing believes maximizing the number of annual memberships l
 2. R: data nalysis and visualization
 
 
-### Data Set: [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
+### Data set: [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 
