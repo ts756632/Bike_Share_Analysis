@@ -5,8 +5,8 @@ The director of marketing believes maximizing the number of annual memberships l
 
 
 ### Tool used:
-1. Spreadsheets: data cleaning and analysis
-2. R: data nalysis and visualization
+#### 1. Spreadsheets: data cleaning and analysis
+#### 2. R: data nalysis and visualization
 
 
 ### Data set: [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
