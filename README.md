@@ -1,4 +1,3 @@
-# Case_Study_1
 ## How Does a Bike-Share Navigate Speedy Success? </br>
 
 Cyclistic, a bike-share company in Chicago, features more than 5,800 bicycles and 600 docking stations.
