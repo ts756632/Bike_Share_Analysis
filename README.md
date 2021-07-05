@@ -4,10 +4,10 @@ Cyclistic, a bike-share company in Chicago, features more than 5,800 bicycles an
 The director of marketing believes maximizing the number of annual memberships leads to success, and she wants to know how to convert casual riders into annual members.
 
 
-• Cleaned data in spreadsheets and created pivot tables to find the trends.
-• Tidyverse for data import and wrangling, libridate for date functions and ggplot for visualization.
-• Compared usage between casual riders and annual members.
-• Made data-driven recommendations for marketing team with digital media.
+• Cleaned data in spreadsheets and created pivot tables to find the trends.</br>
+• Tidyverse for data import and wrangling, libridate for date functions and ggplot for visualization.</br>
+• Compared usage between casual riders and annual members.</br>
+• Made data-driven recommendations for marketing team with digital media.</br>
 
 
 ### Tool used:
