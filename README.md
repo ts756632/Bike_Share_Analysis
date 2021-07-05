@@ -13,7 +13,7 @@ The director of marketing believes maximizing the number of annual memberships l
 
 ### Tool used:
 #### 1. Spreadsheets: data cleaning and analysis
-#### 2. R: data nalysis and visualization
+#### 2. R: data analysis and visualization
 
 
 
