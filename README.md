@@ -5,9 +5,9 @@ The director of marketing believes maximizing the number of annual memberships l
 </br>
 </br>
 </br>
-• Cleaned data in spreadsheets and created pivot tables to find the trends.</br>
-• Tidyverse for data import and wrangling, lubridate for date functions and ggplot for visualization.</br>
 • Compared usage between casual riders and annual members.</br>
+• Cleaned data in spreadsheets and created pivot tables to analyze user behavior.</br>
+• Tidyverse for data import and wrangling, lubridate for date functions and ggplot for visualization.</br>
 • Made data-driven recommendations for marketing team with digital media.</br>
 
 
