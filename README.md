@@ -1,5 +1,7 @@
 ## How Does a Bike-Share Navigate Speedy Success? </br>
-
+Tina Huang 2021-05-24
+</br>
+</br>
 Cyclistic, a bike-share company in Chicago, features more than 5,800 bicycles and 600 docking stations.
 The director of marketing believes maximizing the number of annual memberships leads to success, and she wants to know how to convert casual riders into annual members.
 </br>
